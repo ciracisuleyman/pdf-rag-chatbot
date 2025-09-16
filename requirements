@@ -1,0 +1,6 @@
+streamlit
+langchain
+transformers
+torch
+faiss-cpu
+huggingface-hub
